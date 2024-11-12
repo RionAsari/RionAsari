@@ -10,12 +10,10 @@ Lazy Coder
 <table width="20%">
   <thead>
     <tr>
-      IN PROGRESS
     </tr>
   </thead>
   <tbody>
     <tr>
-      IN PROGRESS
     </tr>
     <tr>
     </tr>
