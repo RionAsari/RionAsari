@@ -29,5 +29,3 @@ Lazy Coder
   </tbody>
 </table>
 
-# Contact Me
-[![whatsapp](https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+6282139423839)
