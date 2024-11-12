@@ -6,7 +6,6 @@ Lazy Coder
 - Programming Language: C#, Pyhton, & Kotlin
 - Tools: Unity, Android Studio, Visual Studio Code
 
-# Projects
 <table width="20%">
   <thead>
     <tr>
