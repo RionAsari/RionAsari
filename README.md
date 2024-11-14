@@ -3,7 +3,7 @@
 Lazy Coder
 
 # Skills
-- Programming Language: C#, Pyhton, & Kotlin
+- Programming Language: C#, Phyton, & Kotlin
 - Tools: Unity, Android Studio, Visual Studio Code
 
 <table width="20%">
